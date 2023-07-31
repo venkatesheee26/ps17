@@ -1,0 +1,8 @@
+D:\ps\ps17\ps17\bin\Debug\ps17.exe.config
+D:\ps\ps17\ps17\bin\Debug\ps17.exe
+D:\ps\ps17\ps17\bin\Debug\ps17.pdb
+D:\ps\ps17\ps17\obj\Debug\ps17.csproj.AssemblyReference.cache
+D:\ps\ps17\ps17\obj\Debug\ps17.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps17\ps17\obj\Debug\ps17.csproj.CoreCompileInputs.cache
+D:\ps\ps17\ps17\obj\Debug\ps17.exe
+D:\ps\ps17\ps17\obj\Debug\ps17.pdb
